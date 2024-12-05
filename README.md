@@ -41,8 +41,6 @@
 
 ###
 
-<br clear="both">
-
 ![snake gif](https://github.com/Anna-Fritz/Anna-Fritz/blob/output/ocean.gif)
 
 ###

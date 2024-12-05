@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anna - I'm a passionate Frontend Developer from Germany. <br>With JS at heart and CSS in the blood...</h2>
+<h2 align="left">Hi 👋! <br>I'm Anna, a passionate Frontend Developer from Germany, coding with JS at heart and CSS running through my veins...</h2>
 
 ###
 
@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Anna-Fritz/Anna-Fritz/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Anna-Fritz/Anna-Fritz/blob/output/ocean.gif)
 
 ###

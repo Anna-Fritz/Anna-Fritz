@@ -1,4 +1,4 @@
-<h2 align="left">Hello world 👋! <br>I'm Anna, a passionate Frontend Developer from Germany, coding with JavaScript at heart and CSS running through my veins...</h2>
+<h2 align="left">Hello world 👋! <br>I'm Anna, a dedicated Frontend Developer with a strong passion for UI/UX, currently training to become a Fullstack Developer.</h2>
 
 ###
 

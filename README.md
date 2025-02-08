@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" height="30" alt="django rest framework logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Django_REST_framework_logo.png" height="30" alt="django rest framework logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="30" alt="django logo" />
   <img width="12" />
@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://www.scrum.org/themes/custom/scrumorg/assets/images/logo-500.png" height="30" alt="scrum logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_Framework.png" height="30" alt="scrum logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />

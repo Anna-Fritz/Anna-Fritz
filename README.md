@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_Framework.png" height="30" alt="scrum logo"  />
+  <img src="https://www.kindpng.com/picc/m/53-539760_scrum-logo-hd-png-download.png" height="30" alt="scrum logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />

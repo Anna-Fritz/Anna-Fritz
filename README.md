@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Django_REST_framework_logo.png" height="30" alt="django rest framework logo" />
+  <img src="https://www.django-rest-framework.org/img/logo.png" height="30" alt="django rest framework logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="30" alt="django logo" />
   <img width="12" />

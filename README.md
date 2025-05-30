@@ -71,8 +71,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
   <img width="12" />
-  <img src="https://www.django-rest-framework.org/img/logo.png" height="30" alt="django rest framework logo" />
-  <img width="12" />
+<!--   <img src="https://www.django-rest-framework.org/img/logo.png" height="30" alt="django rest framework logo" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="30" alt="postman logo" />
   <img width="12" />
   <img src="https://github.com/KevinKovacDev/KevinKovacDev/raw/main/assets/skill_icons/rest_api.png" height="30" alt="api logo" />

@@ -55,6 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="react logo"  />
   <strong>in process...</strong>
 </div>
+<br>
+<br>
 
 ###
 
@@ -73,6 +75,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="30" alt="django logo" />
   <img width="12" />
 </div>
+<br>
+<br>
+
 
 ###
 
